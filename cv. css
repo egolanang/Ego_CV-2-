@@ -1,0 +1,81 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #484a60;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+.cv-container {
+    width: 900px;
+    background: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+}
+.sidebar {
+    width: 300px;
+    background: #2C3E50;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.sidebar img {
+    width: 120px;
+    height: 120px;
+    border-radius: 70%;
+    border: 5px solid rgb(222, 52, 52);
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+.sidebar h2 {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.sidebar p {
+    font-size: 10px;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+.sidebar .contact-info {
+    text-align: left;
+    font-size: 14px;
+}
+.sidebar .contact-info p {
+    margin: 10px 0;
+}
+.content {
+    flex: 1;
+    padding: 30px;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    font-size: 18px;
+    border-bottom: 2px solid #2C3E50;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.section p, .section ul {
+    font-size: 14px;
+    color: #333;
+    line-height: 1.6;
+}
+.skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+}
+.skills li {
+    list-style: none;
+    padding: 5px 15px;
+    background: #2C3E50;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    font-size: 14px;
+}
