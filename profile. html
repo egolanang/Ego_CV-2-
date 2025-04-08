@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Ego Lanang Jagad</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CV.css">
+    
+</head>
+<body>
+    <div class="cv-container">
+        <div class="sidebar">
+            <img src="img/ego.jpg" alt="Ego Lanang Jagad">
+            <h2>Ego Lanang Jagad</h2>
+            <p>Mahasiswa Sistem Informasi</p>
+            <div class="contact-info">
+                <p>📞 082148442235</p>
+                <p>📧 egolanangjagad08@gmail.com</p>
+                <p>📍 Kediri</p>
+            </div>
+        </div>
+        <div class="content">
+            <div class="section">
+                <h2>Profil</h2>
+                <p>Saya seorang mahasiswa aktif Universitas Brawijaya program studi Sistem Informasi, semangat untuk memulai karir dalam layanan pelanggan dengan rasa ingin tahu yang besar dan motivasi yang tinggi untuk belajar. Memiliki kemampuan yang baik, mampu bekerja dalam tim, keterampilan multitasking.</p>
+            </div>
+            <div class="section">
+                <h2>Pendidikan</h2>
+                <p><strong>SMAN 2 Kediri</strong> (2020 - 2023)</p>
+                <p><strong>Universitas Brawijaya</strong> (2023 - Sekarang)<br>Program Studi Sistem Informasi</p>
+            </div>
+            <div class="section">
+                <h2>Pengalaman</h2>
+                <p><strong>Panitia Milad Sekolah (2022)</strong></p>
+                <ul>
+                    <li>Menyusun anggaran dana</li>
+                    <li>Mengatur pemasukan dan pengeluaran</li>
+                    <li>Membuat laporan keuangan</li>
+                </ul>
+                <p><strong>Panitia Acara 17 Agustus Sekolah (2022)</strong></p>
+                <ul>
+                    <li>Mengelola dan merekap data peserta</li>
+                </ul>
+            </div>
+            <div class="section skills">
+                <h2>Kemampuan</h2>
+                <ul>
+                    <li>Komunikasi</li>
+                    <li>Adaptasi</li>
+                    <li>Multitasking</li>
+                    <li>Excel</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
